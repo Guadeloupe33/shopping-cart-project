@@ -1,7 +1,5 @@
 # shopping-cart-project
 
-#  Shopping Cart Project
-
 A simple and responsive shopping cart web application built with HTML, CSS, and JavaScript. This project dynamically renders a product catalog and allows users to add or remove items from their cart with persistent state via `localStorage`.
 
 ##  Features
